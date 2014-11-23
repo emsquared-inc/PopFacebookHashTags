@@ -4,6 +4,10 @@
 // @version      1.0 alpha
 // @description  Makes hashtag links open in a new window or tab
 // @author       Eric Mintz
+// @oujs:author  emsquared-inc
+// @license      GNU GPL v3.0; https://github.com/emsquared-inc/PopFacebookHashTags/blob/gh-pages/LICENSE
+// @homepageURL  http://www.emsquared-inc.com
+// @supportURL   https://github.com/emsquared-inc/PopFacebookHashTags
 // @match        https://www.facebook.com/*
 // @match        https://www.facebook.com
 // @grant        none
